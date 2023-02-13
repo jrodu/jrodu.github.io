@@ -43,5 +43,20 @@
   },
   "publications/MARA/index.md": {
     "index.html": "d633be9d"
+  },
+  "publications/translational-science-award/index.md": {
+    "index.html": "89935f9a"
+  },
+  "publications/sensor-based-gait-training/index.md": {
+    "index.html": "e164521e"
+  },
+  "publications/prospective-running-assessments/index.md": {
+    "index.html": "bdb376cd"
+  },
+  "publications/running-related-injuries/index.md": {
+    "index.html": "afd145d7"
+  },
+  "publications/qqboxplot/index.md": {
+    "index.html": "87fa7b30"
   }
 }
