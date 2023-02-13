@@ -1,5 +1,19 @@
 ---
-title: "jrodu.github.io"
+title: "Jordan Rodu"
+image: avatar.jpg
+about:
+  template: trestles
+  links:
+    - text: GitHub
+      icon: github
+      url: "https://github.com/jrodu"
+    - text: Email
+      url: "mailto:jordan.rodu@virginia.edu"
+    - text: Blog
+      url: "blog.html"
+    - text: CV
+      url: "cv.pdf"
+comments: false
 ---
 
 This is a Quarto website.
