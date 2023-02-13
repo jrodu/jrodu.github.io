@@ -1,0 +1,41 @@
+---
+title: "Jordan Rodu"
+image: avatar.jpg
+about:
+  template: trestles
+  links:
+    - text: GitHub
+      icon: github
+      url: "https://github.com/jrodu"
+    - text: Email
+      url: "mailto:jordan.rodu@virginia.edu"
+    - text: Blog
+      url: "blog.html"
+    - text: CV
+      url: "cv.pdf"
+comments: false
+---
+
+Jordan Rodu is an assistant professor of Statistics at the University of Virginia. His primary interests include statistical visualization, methods of reasoning with data, and time series.
+
+## Education
+
+PhD, Statistics, 2014 \
+The Wharton School at the University of Pennsylvania \
+Philadelphia, PA
+
+BA, Mathematics, 2005 \
+Williams College\
+Williamstown, MA
+
+## Experience
+
+Assistant Professor\
+Department of Statistics\
+University of Virginia, Charlottesville VA\
+2017-present
+
+Visiting Assistant Professor\
+Department of Statistics \
+Carnegie Mellon University, Pittsburgh, PA\
+2014-2017

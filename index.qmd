@@ -1,25 +1,20 @@
 ---
-title: "Jordan Rodu"
-image: avatar.jpg
 about:
   template: trestles
+  image: mariecurie.png
   links:
-    - text: GitHub
-      icon: github
-      url: "https://github.com/jrodu"
-    - text: Email
-      url: "mailto:jordan.rodu@virginia.edu"
-    - text: Blog
-      url: "blog.html"
-    - text: CV
-      url: "cv.pdf"
-comments: false
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/mariecurie
+    - icon: github
+      text: github
+      href: https://github.com/mariecurie
+    - icon: envelope
+      text: mail
+      href: mailto:Marie.Curie@ens.fr
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+**Professor Marie Skłodowska-Curie**<br>
+School of Physics & Chemistry<br>
+École Normale Supérieure<br>
+Paris, France

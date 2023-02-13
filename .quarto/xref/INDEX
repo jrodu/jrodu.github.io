@@ -7,5 +7,35 @@
   },
   "about.knit.md": {
     "about.knit.html": "d94e24b8"
+  },
+  "about/index.qmd": {
+    "index.html": "acb1d1a9"
+  },
+  "blog/index.qmd": {
+    "index.html": "10097898"
+  },
+  "blog/radioactivity.qmd": {
+    "radioactivity.html": "3f2caded"
+  },
+  "index_bak.qmd": {
+    "index_bak.html": "8c1c0a93"
+  },
+  "publications/index.qmd": {
+    "index.html": "e8ad6417"
+  },
+  "software/index.qmd": {
+    "index.html": "9721ff7c"
+  },
+  "talks/french_academy_1901.qmd": {
+    "french_academy_1901.html": "b9d1e90e"
+  },
+  "talks/index.qmd": {
+    "index.html": "87432717"
+  },
+  "teaching/index.qmd": {
+    "index.html": "ca9aa96e"
+  },
+  "publications/uranium.md": {
+    "uranium.html": "827a5663"
   }
 }
