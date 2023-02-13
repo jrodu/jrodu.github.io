@@ -1,0 +1,11 @@
+{
+  "about.qmd": {
+    "about.html": "96e08d88"
+  },
+  "index.qmd": {
+    "index.html": "60dfa1c6"
+  },
+  "about.knit.md": {
+    "about.knit.html": "d94e24b8"
+  }
+}
