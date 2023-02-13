@@ -37,5 +37,8 @@
   },
   "publications/uranium.md": {
     "uranium.html": "827a5663"
+  },
+  "publications/uranium/index.md": {
+    "index.html": "7d6bc420"
   }
 }

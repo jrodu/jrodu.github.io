@@ -5,8 +5,8 @@ project:
     - "*.md"
 
 website:
-  title: "Marie Curie"
-  site-url: "https://mariecurie.com"
+  title: "Jordan Rodu"
+  site-url: "https://example.com"
   navbar:
     background: "#536878"
     left:
@@ -23,12 +23,10 @@ website:
       - href: about/index.qmd
         text: About
   page-footer:
-    left: "Copyright 2022, Marie Curie"
+    left: "Copyright 2023, Jordan Rodu; Website built with Quarto with template from [Rob J Hyndman](https://robjhyndman.com/)"
     right:
       - icon: github
-        href: https://github.com/mariecurie
-      - icon: twitter
-        href: https://twitter.com/mariecurie
+        href: https://github.com/jrodu
     background: "#536878"
 
 date-format: "D MMMM YYYY"
