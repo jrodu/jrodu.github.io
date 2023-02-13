@@ -1,4 +1,5 @@
 ---
+pagetitle: "Jordan Rodu - Publications"
 listing:
   contents: .
   template: pubs.ejs
