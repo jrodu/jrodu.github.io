@@ -12,3 +12,5 @@ about:
 ---
 
 **Jordan Rodu**<br> Department of Statistics<br> The University of Virginia<br> Charlottesville, VA
+
+I am an assistant professor in the Department of Statistics at the University of Virginia. My research interests include statistical visualization, theory of reasoning with data, and time series. I spend a lot of time thinking about the fuzzy space between statistics and machine learning/AI.

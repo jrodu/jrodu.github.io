@@ -1,6 +1,6 @@
 ---
 title: "My blog"
-description: Thoughts on research
+description: Stay tuned...
 listing:
   contents: .
   sort: "date desc"

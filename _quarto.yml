@@ -23,7 +23,7 @@ website:
       - href: about/index.qmd
         text: About
   page-footer:
-    left: "Copyright 2023, Jordan Rodu; Website built with Quarto with template from [Rob J Hyndman](https://robjhyndman.com/)"
+    left: "Copyright 2023, Jordan Rodu; Website built with Quarto using a [template](https://github.com/robjhyndman/quarto_website_template) from [Rob J Hyndman](https://robjhyndman.com/)"
     right:
       - icon: github
         href: https://github.com/jrodu
