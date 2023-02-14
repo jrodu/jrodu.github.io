@@ -4,7 +4,7 @@ Status: Published
 date: 2023-01-01
 slug: running-related-injuries
 title: "Running-Related Injuries Captured Using Wearable Technology during a Cross-Country Season: A Preliminary Study"
-categories: Article
+categories: Articles
 tags:
 - Kinesiology
 details: <em>Translational Journal of the ACSM</em> 8(1):e000217

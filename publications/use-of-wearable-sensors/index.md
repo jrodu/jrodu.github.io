@@ -4,7 +4,7 @@ Status: Published
 date: 2021-09-20
 slug: use-of-wearable-sensors
 title: "Use of wearable sensors to identify biomechanical alterations in runners with Exercise-Related lower leg pain"
-categories: Article
+categories: Articles
 tags:
 - Kinesiology
 details: <em>Journal of Biomechanics</em> Volume 126 

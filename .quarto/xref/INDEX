@@ -70,5 +70,23 @@
   },
   "publications/getting-in-shape/index.md": {
     "index.html": "b0763346"
+  },
+  "publications/MDCCA/index.md": {
+    "index.html": "bc003f95"
+  },
+  "publications/computational-neuroscience-annual-reviews/index.md": {
+    "index.html": "ce5eafda"
+  },
+  "publications/population-vectors/index.md": {
+    "index.html": "8ebaf834"
+  },
+  "publications/spectral-dependency-parsing/index.md": {
+    "index.html": "30295ce8"
+  },
+  "publications/two-step-cca/index.md": {
+    "index.html": "9ad6d1cd"
+  },
+  "publications/using-regression-spectral-estimation/index.md": {
+    "index.html": "1d79cddf"
   }
 }

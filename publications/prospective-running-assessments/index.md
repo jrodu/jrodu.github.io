@@ -4,7 +4,7 @@ Status: Published
 date: 2022-05-01
 slug: running-related-injuries
 title: "Prospective running assessments among division I cross-country athletes"
-categories: Article
+categories: Articles
 tags:
 - Kinesiology
 details: <em>Physical Therapy in Sport</em> Volume 55

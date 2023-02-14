@@ -10,7 +10,7 @@ tags:
 - Machine learning
 - Reasoning with data
 - Prediction
-details: <em>Observational Studies</em> Forthcoming
+details: <em>Observational Studies</em> Forthcoming, 2023
 file: MARA_Observational_FINAL.pdf
 ---
 
