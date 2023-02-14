@@ -58,5 +58,17 @@
   },
   "publications/qqboxplot/index.md": {
     "index.html": "87fa7b30"
+  },
+  "publications/reasoning-using-data/index.md": {
+    "index.html": "3987e285"
+  },
+  "publications/use-of-wearable-sensors/index.md": {
+    "index.html": "0e9e7d11"
+  },
+  "publications/text-analytics-review/index.md": {
+    "index.html": "00ec013e"
+  },
+  "publications/getting-in-shape/index.md": {
+    "index.html": "b0763346"
   }
 }
