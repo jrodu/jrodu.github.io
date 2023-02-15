@@ -6,7 +6,7 @@ project:
 
 website:
   title: "Jordan Rodu"
-  site-url: "https://example.com"
+  site-url: "https://jrodu.github.io/"
   navbar:
     background: "#536878"
     left:
