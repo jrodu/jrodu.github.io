@@ -1,0 +1,27 @@
+[
+  {
+    "listing": "/blog/index.html",
+    "items": []
+  },
+  {
+    "listing": "/publications/index.html",
+    "items": [
+      "/publications/MARA/index.html",
+      "/publications/running-related-injuries/index.html",
+      "/publications/sensor-based-gait-training/index.html",
+      "/publications/translational-science-award/index.html",
+      "/publications/prospective-running-assessments/index.html",
+      "/publications/use-of-wearable-sensors/index.html",
+      "/publications/qqboxplot/index.html",
+      "/publications/text-analytics-review/index.html",
+      "/publications/reasoning-using-data/index.html",
+      "/publications/getting-in-shape/index.html",
+      "/publications/MDCCA/index.html",
+      "/publications/computational-neuroscience-annual-reviews/index.html",
+      "/publications/population-vectors/index.html",
+      "/publications/using-regression-spectral-estimation/index.html",
+      "/publications/spectral-dependency-parsing/index.html",
+      "/publications/two-step-cca/index.html"
+    ]
+  }
+]
