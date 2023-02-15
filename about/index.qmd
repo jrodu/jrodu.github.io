@@ -1,7 +1,7 @@
 ---
 about:
   template: trestles
-  image: hat.jpg
+  image: JaL.jpg
   links:
     - icon: github
       text: github
