@@ -1,9 +1,55 @@
-# Advanced Chemistry
+# Capstone
 
-Blah blah
+UVA STAT 4996\
+Spring 20, 23
 
-* * *
+------------------------------------------------------------------------
 
-# Advanced Physics
+# Applied Causal Inference
 
-Don't forget to bring your lab coats
+UVA STAT 5350\
+Fall 22
+
+------------------------------------------------------------------------
+
+# Advanced Sports Analytics
+
+UVA STAT 4800\
+Fall 21, 22\
+Spring 20, 21
+
+------------------------------------------------------------------------
+
+# Introduction to Sports Analytics
+
+UVA STAT 1800 \
+Fall 19, 21
+
+------------------------------------------------------------------------
+
+# Statistical Text Analysis
+
+UVA STAT 4559 \
+Fall 20
+
+------------------------------------------------------------------------
+
+# Data Visualization and Presentation
+
+UVA STAT 4310\
+Fall 17, 18 \
+Spring 19
+
+------------------------------------------------------------------------
+
+# Statistical Machine Learning (Graduate level)
+
+UVA STAT 5630\
+Fall 18
+
+------------------------------------------------------------------------
+
+# Statistical Machine Learning (Undergraduate)
+
+UVA STAT 4630\
+Spring 18

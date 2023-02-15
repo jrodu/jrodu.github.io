@@ -1,22 +1,3 @@
----
-listing:
-  contents: .
-  sort: "date desc"
-  categories: false
-  sort-ui: true
-  filter-ui: [date, title, venue]
-  date-format: "DD MMM YYYY"
-  type: table
-  page-size: 999
-  fields:
-    - date
-    - title
-    - venue
-  field-display-names:
-      venue: Venue
+# Talks
 
-page-layout: full
-title-block-banner: false
----
-
-# Talks I've given
+Coming soon...

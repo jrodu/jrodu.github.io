@@ -1,3 +1,18 @@
+---
+about:
+  template: trestles
+  image: hat.jpg
+  links:
+    - icon: github
+      text: github
+      href: https://github.com/jrodu
+    - icon: envelope
+      text: mail
+      href: mailto:jordan.rodu@virginia.edu
+---
+
 # About me
 
-Some more detail about who I am and what I do.
+**Jordan Rodu**<br> Department of Statistics<br> The University of Virginia<br> Charlottesville, VA
+
+more soon...
