@@ -1,6 +1,6 @@
 ---
 author: Jordan Rodu, Michael Baiocchi
-Status: Forthcoming
+Status: Published
 date: 2023-03-01
 slug: MARA
 title: When black box algorithms are (not) appropriate
@@ -10,7 +10,7 @@ tags:
 - Machine learning
 - Reasoning with data
 - Prediction
-details: <em>Observational Studies</em> Forthcoming, 2023
+details: <em>Observational Studies</em>
 file: MARA_Observational_FINAL.pdf
 link: https://muse.jhu.edu/pub/56/article/883478
 ---
