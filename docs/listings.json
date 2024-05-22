@@ -1,9 +1,5 @@
 [
   {
-    "listing": "/blog/index.html",
-    "items": []
-  },
-  {
     "listing": "/publications/index.html",
     "items": [
       "/publications/MARA/index.html",
@@ -23,5 +19,9 @@
       "/publications/spectral-dependency-parsing/index.html",
       "/publications/two-step-cca/index.html"
     ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": []
   }
 ]
