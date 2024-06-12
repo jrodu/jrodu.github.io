@@ -1,55 +1,50 @@
-# Capstone
+# Courses at UVA
 
-UVA STAT 4996\
-Spring 20, 23
+\* indicates course I created at UVA
 
-------------------------------------------------------------------------
+* Capstone (UVA STAT 4996)
+  + Spring 24
+  + Fall 23
+  + Spring 23
+  + Spring 20
+* Applied Causal Inference (UVA STAT 5350)*
+  + Fall 23 
+  + Fall 22
+    + Note: this is a course that had not been taught since prior to my joining UVA, \
+so it was designed as a new course.
+* Advanced Sports Analytics (UVA STAT 4800)*
+  + Fall 22
+  + Fall 21
+  + Spring 21
+  + Spring 20
+* Introduction to Sports Analytics (UVA STAT 1800)*
+  + Fall 21
+  + Fall 19
+* Statistical Text Analysis (UVA STAT 4559)*
+  + Fall 20
+* Data Visualization and Presentation*
+  + Spring 19
+  + Fall 18
+  + Fall 17
+    + Note: data visualization is now taught along with databases (STAT 3280)
+* Statistical Machine Learning (Graduate level, UVA STAT 5630)
+  + Fall 18
+* Statistical Machine Learning (Undergraduate level, UVA STAT 4630)
+  + Spring 18
 
-# Applied Causal Inference
 
-UVA STAT 5350\
-Fall 22
-
-------------------------------------------------------------------------
-
-# Advanced Sports Analytics
-
-UVA STAT 4800\
-Fall 21, 22\
-Spring 20, 21
-
-------------------------------------------------------------------------
-
-# Introduction to Sports Analytics
-
-UVA STAT 1800 \
-Fall 19, 21
-
-------------------------------------------------------------------------
-
-# Statistical Text Analysis
-
-UVA STAT 4559 \
-Fall 20
-
-------------------------------------------------------------------------
-
-# Data Visualization and Presentation
-
-UVA STAT 4310\
-Fall 17, 18 \
-Spring 19
 
 ------------------------------------------------------------------------
 
-# Statistical Machine Learning (Graduate level)
+# Statistics PhD students
 
-UVA STAT 5630\
-Fall 18
-
-------------------------------------------------------------------------
-
-# Statistical Machine Learning (Undergraduate)
-
-UVA STAT 4630\
-Spring 18
+* Kyle Peterson (expected 2027)
+* Tyler Ashoff (expected 2027)
+* Sydney Campbell (expected 2026)
+  + Joint with Karen Kafadar
+* Isabella Femia (expected 2026)
+* Noah Gade (2024)
+* Xiaoyuan Ma (2023)
+* Tianyuan Zhou (2023)
+* Ruizhong Miao (2022)
+  + Joint with Tianxi Li

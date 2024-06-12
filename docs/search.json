@@ -37,9 +37,9 @@
   {
     "objectID": "teaching/index.html",
     "href": "teaching/index.html",
-    "title": "Capstone",
+    "title": "Courses at UVA",
     "section": "",
-    "text": "Capstone\nUVA STAT 4996\nSpring 20, 23\n\n\n\nApplied Causal Inference\nUVA STAT 5350\nFall 22\n\n\n\nAdvanced Sports Analytics\nUVA STAT 4800\nFall 21, 22\nSpring 20, 21\n\n\n\nIntroduction to Sports Analytics\nUVA STAT 1800\nFall 19, 21\n\n\n\nStatistical Text Analysis\nUVA STAT 4559\nFall 20\n\n\n\nData Visualization and Presentation\nUVA STAT 4310\nFall 17, 18\nSpring 19\n\n\n\nStatistical Machine Learning (Graduate level)\nUVA STAT 5630\nFall 18\n\n\n\nStatistical Machine Learning (Undergraduate)\nUVA STAT 4630\nSpring 18"
+    "text": "Courses at UVA\n* indicates course I created at UVA\n\nCapstone (UVA STAT 4996)\n\nSpring 24\nFall 23\nSpring 23\nSpring 20\n\nApplied Causal Inference (UVA STAT 5350)*\n\nFall 23\nFall 22\n\nNote: this is a course that had not been taught since prior to my joining UVA,\nso it was designed as a new course.\n\n\nAdvanced Sports Analytics (UVA STAT 4800)*\n\nFall 22\nFall 21\nSpring 21\nSpring 20\n\nIntroduction to Sports Analytics (UVA STAT 1800)*\n\nFall 21\nFall 19\n\nStatistical Text Analysis (UVA STAT 4559)*\n\nFall 20\n\nData Visualization and Presentation*\n\nSpring 19\nFall 18\nFall 17\n\nNote: data visualization is now taught along with databases (STAT 3280)\n\n\nStatistical Machine Learning (Graduate level, UVA STAT 5630)\n\nFall 18\n\nStatistical Machine Learning (Undergraduate level, UVA STAT 4630)\n\nSpring 18\n\n\n\n\n\nStatistics PhD students\n\nKyle Peterson (expected 2027)\nTyler Ashoff (expected 2027)\nSydney Campbell (expected 2026)\n\nJoint with Karen Kafadar\n\nIsabella Femia (expected 2026)\nNoah Gade (2024)\nXiaoyuan Ma (2023)\nTianyuan Zhou (2023)\nRuizhong Miao (2022)\n\nJoint with Tianxi Li"
   },
   {
     "objectID": "talks/french_academy_1901.html",
@@ -159,5 +159,68 @@
     "title": "An analysis of the Clinical and Translational Science Award pilot project portfolio using data from Research Performance Progress Reports",
     "section": "",
     "text": "Pilot projects (“pilots”) are important for testing hypotheses in advance of investing more funds for full research studies. For some programs, such as Clinical and Translational Science Awards (CTSAs) supported by the National Center for Translational Sciences, pilots also make up a significant proportion of the research projects conducted with direct CTSA support. Unfortunately, administrative data on pilots are not typically captured in accessible databases. Though data on pilots are included in Research Performance Progress Reports, it is often difficult to extract, especially for large programs like the CTSAs where more than 600 pilots may be reported across all awardees annually. Data extraction challenges preclude analyses that could provide valuable information about pilots to researchers and administrators."
+  },
+  {
+    "objectID": "teaching/index.html#capstone",
+    "href": "teaching/index.html#capstone",
+    "title": "Jordan Rodu",
+    "section": "",
+    "text": "UVA STAT 4996\nFall 23 Spring 20, 23, 24"
+  },
+  {
+    "objectID": "teaching/index.html#applied-causal-inference",
+    "href": "teaching/index.html#applied-causal-inference",
+    "title": "Courses at UVA",
+    "section": "",
+    "text": "This is a course that had not been taught since prior to my joining UVA,\nso I designed a new course.\nUVA STAT 5350\nFall 22, 23"
+  },
+  {
+    "objectID": "teaching/index.html#advanced-sports-analytics",
+    "href": "teaching/index.html#advanced-sports-analytics",
+    "title": "Courses at UVA",
+    "section": "",
+    "text": "This is a course I created at UVA.\nUVA STAT 4800\nFall 21, 22\nSpring 20, 21"
+  },
+  {
+    "objectID": "teaching/index.html#introduction-to-sports-analytics",
+    "href": "teaching/index.html#introduction-to-sports-analytics",
+    "title": "Courses at UVA",
+    "section": "",
+    "text": "This is a course I created at UVA.\nUVA STAT 1800\nFall 19, 21"
+  },
+  {
+    "objectID": "teaching/index.html#statistical-text-analysis",
+    "href": "teaching/index.html#statistical-text-analysis",
+    "title": "Courses at UVA",
+    "section": "",
+    "text": "This is a course I created at UVA.\nUVA STAT 4559\nFall 20"
+  },
+  {
+    "objectID": "teaching/index.html#data-visualization-and-presentation",
+    "href": "teaching/index.html#data-visualization-and-presentation",
+    "title": "Courses at UVA",
+    "section": "",
+    "text": "This is a course I created at UVA. Data visualization is\nnow being taught in along with databases (STAT 3280)\nUVA STAT 4310\nFall 17, 18\nSpring 19"
+  },
+  {
+    "objectID": "teaching/index.html#statistical-machine-learning-graduate-level",
+    "href": "teaching/index.html#statistical-machine-learning-graduate-level",
+    "title": "Courses at UVA",
+    "section": "",
+    "text": "UVA STAT 5630\nFall 18"
+  },
+  {
+    "objectID": "teaching/index.html#statistical-machine-learning-undergraduate",
+    "href": "teaching/index.html#statistical-machine-learning-undergraduate",
+    "title": "Courses at UVA",
+    "section": "",
+    "text": "UVA STAT 4630\nSpring 18"
+  },
+  {
+    "objectID": "teaching/index.html#section",
+    "href": "teaching/index.html#section",
+    "title": "Courses at UVA",
+    "section": "",
+    "text": "This is a course I created at UVA.\nUVA STAT 4800\nFall 21, 22\nSpring 20, 21"
   }
 ]

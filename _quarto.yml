@@ -11,14 +11,10 @@ website:
   navbar:
     background: "#536878"
     left:
-      - href: blog/index.qmd
-        text: Blog
       - href: publications/index.qmd
         text: Publications
       - href: software/index.qmd
         text: Software
-      - href: talks/index.qmd
-        text: Talks
       - href: teaching/index.qmd
         text: Teaching
       - href: about/index.qmd
