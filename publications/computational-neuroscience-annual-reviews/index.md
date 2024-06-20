@@ -2,6 +2,7 @@
 author: Robert E. Kass et. al
 Status: Published
 date: 2018-03-01
+sort_date: 2018-03-01
 slug: computational-neuroscience-annual-reviews
 title: "Computational Neuroscience: Mathematical and Statistical Perspectives"
 categories: Articles

@@ -3,7 +3,7 @@ pagetitle: "Jordan Rodu - Publications"
 listing:
   contents: .
   template: pubs.ejs
-  sort: "date desc"
+  sort: "sort_date desc"
   categories: false
   sort-ui: [date, title, author]
   filter-ui: [date, title, author, details]

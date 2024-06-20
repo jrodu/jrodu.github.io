@@ -2,6 +2,7 @@
 author: Josue Orellana, Jordan Rodu, Robert E. Kass
 Status: Published
 date: 2017-08-29
+sort_date: 2017-08-29
 slug: population-vectors
 title: Population Vectors Can Provide Near Optimal Integration of Information
 categories: Articles

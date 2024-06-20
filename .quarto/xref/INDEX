@@ -88,5 +88,29 @@
   },
   "publications/using-regression-spectral-estimation/index.md": {
     "index.html": "1d79cddf"
+  },
+  "publications/nonlinear-permuted-granger-causality/index.md": {
+    "index.html": "fd85047c"
+  },
+  "publications/change-point-conceptors/index.md": {
+    "index.html": "833f2b14"
+  },
+  "publications/markov-swithcing-volatility/index.md": {
+    "index.html": "bdb6b53a"
+  },
+  "publications/lr-plot/index.md": {
+    "index.html": "52bf19e5"
+  },
+  "publications/ppa/index.md": {
+    "index.html": "9b156659"
+  },
+  "publications/projected-spectral-hmm/index.md": {
+    "index.html": "81283668"
+  },
+  "publications/ml-in-ss/index.md": {
+    "index.html": "bef4e2f7"
+  },
+  "publications/lhgm/index.md": {
+    "index.html": "e4f20506"
   }
 }

@@ -2,6 +2,7 @@
 author: Michael Baiocchi, Jordan Rodu
 Status: Published
 date: 2021-01-01
+sort_date: 2021-01-01
 slug: reasoning-using-data
 title: "Reasoning Using Data: Two Old Ways and One New"
 categories: Articles

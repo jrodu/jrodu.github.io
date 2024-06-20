@@ -2,6 +2,7 @@
 author: Paramveer S. Dhillon, Jordan Rodu, Michael Collins, Dean P. Foster, Lyle H. Ungar
 Status: Published
 date: 2012-07-01
+sort_date: 2012-07-01
 slug: spectral-dependency-parsing
 title: "Spectral Dependency Parsing with Latent Variables"
 categories: Articles

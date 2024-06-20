@@ -2,6 +2,7 @@
 author: Jordan Rodu, Natalie Klein, Scott L. Brincat, Earl K. Miller, Robert E. Kass
 Status: Published
 date: 2018-10-09
+sort_date: 2018-10-09
 slug: MDCCA
 title: "Detecting multivariate cross-correlation between brain regions"
 categories: Articles

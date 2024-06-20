@@ -2,6 +2,7 @@
 author: Sean A Klein, Michael Baiocchi, Jordan Rodu, Heather Baker, Erica Rosemond, Jamie Mihoko Doyle
 Status: Published
 date: 2022-08-18
+sort_date: 2022-08-18
 slug: translational-science-award
 title: An analysis of the Clinical and Translational Science Award pilot project portfolio using data from Research Performance Progress Reports
 categories: Articles

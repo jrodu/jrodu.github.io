@@ -2,6 +2,7 @@
 author: Jordan Rodu, Dean P. Foster, Weichen Wu, Lyle H. Ungar
 Status: Published
 date: 2013-07-29
+sort_date: 2013-07-29
 slug: using-regression-spectral-estimation
 title: Using Regression for Spectral Estimation of HMMs
 categories: Articles

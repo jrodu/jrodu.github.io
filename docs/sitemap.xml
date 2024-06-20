@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://jrodu.github.io/publications/using-regression-spectral-estimation/index.html</loc>
-    <lastmod>2024-06-12T19:37:03.967Z</lastmod>
+    <lastmod>2024-06-20T03:11:32.451Z</lastmod>
   </url>
   <url>
     <loc>https://jrodu.github.io/publications/two-step-cca/index.html</loc>
-    <lastmod>2024-06-12T19:37:03.467Z</lastmod>
+    <lastmod>2024-06-20T03:11:31.806Z</lastmod>
   </url>
   <url>
     <loc>https://jrodu.github.io/publications/text-analytics-review/index.html</loc>
-    <lastmod>2024-06-12T19:37:02.958Z</lastmod>
+    <lastmod>2024-06-20T03:11:31.153Z</lastmod>
   </url>
   <url>
     <loc>https://jrodu.github.io/publications/sensor-based-gait-training/index.html</loc>
-    <lastmod>2024-06-12T19:37:02.458Z</lastmod>
+    <lastmod>2024-06-20T03:11:30.560Z</lastmod>
   </url>
   <url>
     <loc>https://jrodu.github.io/publications/reasoning-using-data/index.html</loc>
-    <lastmod>2024-06-12T19:37:01.947Z</lastmod>
+    <lastmod>2024-06-20T03:11:29.952Z</lastmod>
   </url>
   <url>
     <loc>https://jrodu.github.io/publications/prospective-running-assessments/index.html</loc>
-    <lastmod>2024-06-12T19:37:01.427Z</lastmod>
+    <lastmod>2024-06-20T03:11:29.305Z</lastmod>
   </url>
   <url>
     <loc>https://jrodu.github.io/publications/getting-in-shape/index.html</loc>
-    <lastmod>2024-06-12T19:37:00.867Z</lastmod>
+    <lastmod>2024-06-20T03:11:28.710Z</lastmod>
   </url>
   <url>
     <loc>https://jrodu.github.io/publications/MDCCA/index.html</loc>
-    <lastmod>2024-06-12T19:37:00.357Z</lastmod>
+    <lastmod>2024-06-20T03:11:28.136Z</lastmod>
   </url>
   <url>
     <loc>https://jrodu.github.io/teaching/index.html</loc>
@@ -42,11 +42,11 @@
   </url>
   <url>
     <loc>https://jrodu.github.io/publications/index.html</loc>
-    <lastmod>2024-06-12T19:36:58.809Z</lastmod>
+    <lastmod>2024-06-20T04:12:55.135Z</lastmod>
   </url>
   <url>
     <loc>https://jrodu.github.io/index.html</loc>
-    <lastmod>2024-06-12T19:51:51.591Z</lastmod>
+    <lastmod>2024-06-20T04:12:58.146Z</lastmod>
   </url>
   <url>
     <loc>https://jrodu.github.io/about/index.html</loc>
@@ -62,7 +62,7 @@
   </url>
   <url>
     <loc>https://jrodu.github.io/software/index.html</loc>
-    <lastmod>2024-06-12T19:36:59.067Z</lastmod>
+    <lastmod>2024-06-20T03:46:02.899Z</lastmod>
   </url>
   <url>
     <loc>https://jrodu.github.io/talks/index.html</loc>
@@ -70,34 +70,66 @@
   </url>
   <url>
     <loc>https://jrodu.github.io/publications/MARA/index.html</loc>
-    <lastmod>2024-06-12T19:37:00.082Z</lastmod>
+    <lastmod>2024-06-20T03:11:27.804Z</lastmod>
   </url>
   <url>
     <loc>https://jrodu.github.io/publications/computational-neuroscience-annual-reviews/index.html</loc>
-    <lastmod>2024-06-12T19:37:00.610Z</lastmod>
+    <lastmod>2024-06-20T03:11:28.443Z</lastmod>
   </url>
   <url>
     <loc>https://jrodu.github.io/publications/population-vectors/index.html</loc>
-    <lastmod>2024-06-12T19:37:01.118Z</lastmod>
+    <lastmod>2024-06-20T03:11:29.007Z</lastmod>
   </url>
   <url>
     <loc>https://jrodu.github.io/publications/qqboxplot/index.html</loc>
-    <lastmod>2024-06-12T19:37:01.702Z</lastmod>
+    <lastmod>2024-06-20T03:11:29.630Z</lastmod>
   </url>
   <url>
     <loc>https://jrodu.github.io/publications/running-related-injuries/index.html</loc>
-    <lastmod>2024-06-12T19:37:02.199Z</lastmod>
+    <lastmod>2024-06-20T03:11:30.251Z</lastmod>
   </url>
   <url>
     <loc>https://jrodu.github.io/publications/spectral-dependency-parsing/index.html</loc>
-    <lastmod>2024-06-12T19:37:02.722Z</lastmod>
+    <lastmod>2024-06-20T03:11:30.871Z</lastmod>
   </url>
   <url>
     <loc>https://jrodu.github.io/publications/translational-science-award/index.html</loc>
-    <lastmod>2024-06-12T19:37:03.219Z</lastmod>
+    <lastmod>2024-06-20T03:11:31.467Z</lastmod>
   </url>
   <url>
     <loc>https://jrodu.github.io/publications/use-of-wearable-sensors/index.html</loc>
-    <lastmod>2024-06-12T19:37:03.717Z</lastmod>
+    <lastmod>2024-06-20T03:11:32.132Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jrodu.github.io/publications/nonlinear-permuted-granger-causality/index.html</loc>
+    <lastmod>2024-06-20T03:24:11.741Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jrodu.github.io/publications/change-point-conceptors/index.html</loc>
+    <lastmod>2024-06-20T03:42:18.475Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jrodu.github.io/publications/markov-swithcing-volatility/index.html</loc>
+    <lastmod>2024-06-20T03:42:24.076Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jrodu.github.io/publications/projected-spectral-hmm/index.html</loc>
+    <lastmod>2024-06-20T03:36:09.777Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jrodu.github.io/publications/lr-plot/index.html</loc>
+    <lastmod>2024-06-20T03:36:09.187Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jrodu.github.io/publications/ppa/index.html</loc>
+    <lastmod>2024-06-20T03:36:09.492Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jrodu.github.io/publications/ml-in-ss/index.html</loc>
+    <lastmod>2024-06-20T03:43:44.954Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jrodu.github.io/publications/lhgm/index.html</loc>
+    <lastmod>2024-06-20T04:08:05.555Z</lastmod>
   </url>
 </urlset>

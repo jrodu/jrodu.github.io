@@ -2,6 +2,7 @@
 author: Alexandra F Dejong Lempke, Joseph M Hart, David J Hryvniak, Jordan Rodu, Jay Hertel
 Status: Published
 date: 2022-05-01
+sort_date: 2022-05-01
 slug: running-related-injuries
 title: "Prospective running assessments among division I cross-country athletes"
 categories: Articles

@@ -2,6 +2,7 @@
 author: Alexandra F Dejong Lempke, Stephanie L Stephens, Pamela N Fish, Xavier D Thompson, Joseph M Hart, David J Hryvniak, Jordan Rodu, Jay Hertel
 Status: Published
 date: 2023-01-01
+sort_date: 2023-01-01
 slug: running-related-injuries
 title: "Running-Related Injuries Captured Using Wearable Technology during a Cross-Country Season: A Preliminary Study"
 categories: Articles

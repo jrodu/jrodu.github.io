@@ -2,6 +2,7 @@
 author: Paramveer S. Dhillon, Jordan Rodu, Dean P. Foster, Lyle H. Ungar
 Status: Published
 date: 2012-06-01
+sort_date: 2012-06-01
 slug: two-step-cca
 title: "Two step CCA: a new spectral method for estimating vector models of words"
 categories: Articles

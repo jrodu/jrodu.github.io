@@ -2,6 +2,7 @@
 author: Jordan Rodu, Karen Kafadar
 Status: Published
 date: 2021-07-19
+sort_date: 2021-07-19
 slug: qqboxplot
 title: The q–q Boxplot
 categories: Articles

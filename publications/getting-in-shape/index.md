@@ -2,6 +2,7 @@
 author: Tianyuan Zhou, Joao Sedoc, Jordan Rodu
 Status: Published
 date: 2019-08-10
+sort_date: 2019-08-10
 slug: getting-in-shape
 title: "Getting in Shape: Word Embedding SubSpaces"
 categories: Articles
