@@ -6,10 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Jordan Rodu, Alexandra F Dejong Lempke, Natalie Kupperman, Jay Hertel">
-<meta name="dcterms.date" content="2024-11-01">
+<meta name="author" content="Reid Dale, Jordan Rodu, Maria E. Currie, Mike Baiocchi">
 
-<title>Jordan Rodu - On Leveraging Machine Learning in the Sports Sciences in the Hypothetico-deductive Framework</title>
+<title>Jordan Rodu - Data Gluttony: Epistemic Risks, Dependent Testing and Data Reuse in Large Datasets</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -128,7 +127,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">On Leveraging Machine Learning in the Sports Sciences in the Hypothetico-deductive Framework</h1>
+<h1 class="title">Data Gluttony: Epistemic Risks, Dependent Testing and Data Reuse in Large Datasets</h1>
   <div class="quarto-categories">
     <div class="quarto-category">Articles</div>
   </div>
@@ -141,23 +140,17 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Authors</div>
     <div class="quarto-title-meta-contents">
-            <p>Jordan Rodu, Alexandra F Dejong Lempke, Natalie Kupperman, Jay Hertel 
+            <p>Reid Dale, Jordan Rodu, Maria E. Currie, Mike Baiocchi 
       </p>
           </div>
   </div>
   
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">1 November 2024</p>
-    </div>
-  </div>
   
     <div>
     <div class="quarto-title-meta-heading">Publication details</div>
     <div class="quarto-title-meta-contents">
       <p class="date">
-        <em>Sports Medicine – Open</em> Volume 10
+        Submitted
       </p>
     </div>
   </div>
@@ -166,9 +159,7 @@ ul.task-list li input[type="checkbox"] {
     <div class="quarto-title-meta-heading">Links</div>
     <div class="quarto-title-meta-contents">
       <p class="date" style="color: #fff !important;">
-            <a href="https://doi.org/10.1186/s40798-024-00788-4" class="badge badge badge-blue">DOI</a>
-                                    <a href="https://sportsmedicine-open.springeropen.com/articles/10.1186/s40798-024-00788-4" class="badge badge badge-red">web</a>
-                  
+                                          
       
       
       
@@ -188,7 +179,11 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Supervised machine learning (ML) offers an exciting suite of algorithms that could benefit research in the sports sciences. In principle, supervised ML approaches were designed for pure prediction, as opposed to explanation, leading to a rise in powerful, but opaque, algorithms. Recently, two subdomains of ML–explainable ML, which allows us to “peek into the black box,” and interpretable ML, which encourages using algorithms that are inherently interpretable–have grown in popularity. Given this increased transparency into ML algorithms, can supervised ML be used in place of statistical methods in the hypothetico-deductive framework? This paper shows why ML algorithms are fundamentally different from statistical methods, even when using explainable or interpretable approaches. While supervised ML cannot be used in place of statistical methods, we propose ways in which the sports science community can take advantage of supervised ML in the hypothetico-deductive framework. In this manuscript we argue that supervised machine learning can and should augment our exploratory investigations in the sports sciences, but should not replace statistical reasoning in the hypothetico-deductive framework. We justify our position through a careful examination of supervised machine learning, and provide a useful analogy to help elucidate our findings. Three case studies are provided to demonstrate how supervised machine learning can be integrated into exploratory analysis. Supervised machine learning should be integrated into the scientific workflow with requisite caution. The approaches described in this paper provide ways to safely leverage the strengths of machine learning while avoiding potential pitfalls.</p>
+<p>Large-scale registries have collected vast amounts of data which has enabled investigators to efficiently conduct studies of observational data. However, we demonstrate how data reuse leads to positive dependence among the inferential tasks and cascading inferential errors.</p>
+<p>Common practice is for investigators to use all data meeting the inclusion criteria of their study to perform their analysis. We term this common practice data gluttony. It has apparent formal justification insofar as this approach maximizes per-study power. But this comes at a cost: data reuse affects the shape of the distribution of inferential errors. Using the theory of risk orderings we demonstrate how positively dependent testing procedures result in strictly riskier distributions of inferential error.</p>
+<p>We identify two remedies to this state of affairs: research portfolio optimization and what we term data temperance. Research portfolio optimization requires that we formulate the enterprise of inference in a utility theoretic framework: associated to each hypothesis to be evaluated is some utility dependent on its truth as well as the impact of the statistical decision rendered on the basis of the data. Under certain models of data governance, this approach can be used to optimally allocate data usage across multiple inferential tasks.</p>
+<p>On the other hand, data temperance is a more flexible strategy for managing the distribution of inferential errors. Data temperance is the principle that an investigator use only as much data as is necessary to perform the task at hand. This is possible due to the diminishing marginal returns in power and precision in sample size. In contrast to portfolio optimization, data temperance can be effectively applied in a federated manner. Moreover, we analyze the effectiveness of data temperance at reducing the dependence across testing and develop a theory of the capacity of a static database to sustain large numbers of inferential tasks with low probability of inducing pairwise dependent testing procedures.</p>
+<p>Registries are an invaluable resource. We must ensure that they remain valuable by mitigating the risk of cascading inferential errors.</p>
 
 
 

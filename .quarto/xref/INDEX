@@ -112,5 +112,17 @@
   },
   "publications/lhgm/index.md": {
     "index.html": "e4f20506"
+  },
+  "publications/data-gluttony/index.md": {
+    "index.html": "cea24d68"
+  },
+  "publications/limb-loading/index.md": {
+    "index.html": "fd0c9786"
+  },
+  "publications/transference/index.md": {
+    "index.html": "52da50e0"
+  },
+  "publications/limb-loading-lower-extremity/index.md": {
+    "index.html": "62a3df5d"
   }
 }

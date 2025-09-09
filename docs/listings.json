@@ -2,6 +2,8 @@
   {
     "listing": "/publications/index.html",
     "items": [
+      "/publications/data-gluttony/index.html",
+      "/publications/limb-loading/index.html",
       "/publications/ppa/index.html",
       "/publications/lr-plot/index.html",
       "/publications/ml-in-ss/index.html",
@@ -10,6 +12,7 @@
       "/publications/markov-swithcing-volatility/index.html",
       "/publications/projected-spectral-hmm/index.html",
       "/publications/lhgm/index.html",
+      "/publications/transference/index.html",
       "/publications/MARA/index.html",
       "/publications/running-related-injuries/index.html",
       "/publications/sensor-based-gait-training/index.html",
