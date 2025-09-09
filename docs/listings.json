@@ -3,10 +3,12 @@
     "listing": "/publications/index.html",
     "items": [
       "/publications/data-gluttony/index.html",
+      "/publications/e-cigs/index.html",
       "/publications/limb-loading/index.html",
+      "/publications/ml-in-ss/index.html",
+      "/publications/limb-loading-lower-extremity/index.html",
       "/publications/ppa/index.html",
       "/publications/lr-plot/index.html",
-      "/publications/ml-in-ss/index.html",
       "/publications/nonlinear-permuted-granger-causality/index.html",
       "/publications/change-point-conceptors/index.html",
       "/publications/markov-swithcing-volatility/index.html",
