@@ -19,6 +19,8 @@ website:
         text: Teaching
       - href: about/index.qmd
         text: About
+      - href: Rodu.J.CV.25.pdf
+        text: CV
   page-footer:
     left: "Copyright 2023, Jordan Rodu; Website built with Quarto using a [template](https://github.com/robjhyndman/quarto_website_template) from [Rob J Hyndman](https://robjhyndman.com/)"
     right:
